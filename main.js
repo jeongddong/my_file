@@ -79,7 +79,7 @@ function frame_execute() {
 
 
   // draw();
-  console.log(dino.y);
+  // console.log(dino.y);
 }
 
 
